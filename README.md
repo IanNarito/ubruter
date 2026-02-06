@@ -1,4 +1,4 @@
-# Advanced Username Enumerator (UI Enhanced)
+# Ubruter Username bruteforcer
 
 A multi-threaded username enumeration tool designed for **authorized security testing**, **CTF environments**, and **educational penetration testing labs**.  
 This tool performs automated username validation by analyzing login responses using success/failure indicators, redirects, and response anomalies.
